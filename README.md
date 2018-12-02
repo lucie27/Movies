@@ -1,6 +1,6 @@
 # Movies
 
-# Pour démarrager cette page, vous pourrez entrer `npm run dev` sur le terminal.
+### Pour démarrager cette page, vous pourrez entrer `npm run dev` sur le terminal.
 
 J'ai utilisé `webpack` pour packer ce projet afin de réaliser la fonction moudulaire.
 
